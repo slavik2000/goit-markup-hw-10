@@ -37,7 +37,8 @@ h1 {
 
 .breed-select {
    display: none;
-   max-width: 400px;
+   /* display: flex; */
+   max-width: 450px;
    margin: auto;
 }
 
