@@ -1,6 +1,5 @@
-* {
-   box-sizing: border-box;
-}
+
+
 
 body {
    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
@@ -10,6 +9,10 @@ body {
    background-color: #fafafa;
    color: #212121;
    line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 img {
@@ -56,6 +59,8 @@ h1 {
    max-width: 450px;
    margin: auto;
 }
+
+
 
 /* .loader {
    font-size: 0;
@@ -158,3 +163,10 @@ h1 {
 .box {
    width: 400px;
 }
+
+
+
+
+
+/* 
+*/
